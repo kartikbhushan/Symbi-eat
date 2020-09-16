@@ -1,4 +1,7 @@
 # Symbi Eat Application 🌯🥣🍉🍌☕
+
+## Aim -
+
 App for Symbiosis Canteen center where Students can eat , refresh and energize without the hassel of standing in Queues to place their orders with the help of this new app great features for everyone.
 
 ## Tech Stack -
