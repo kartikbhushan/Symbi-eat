@@ -1,4 +1,4 @@
-# Symbi-eat - 🌯🥣🍉🍌☕
+# Symbi Eat Application 🌯🥣🍉🍌☕
 App for Symbiosis Canteen center where Students can eat , refresh and energize without the hassel of standing in Queues to place their orders with the help of this new app great features for everyone.
 
 ## Tech Stack -
@@ -64,8 +64,4 @@ App for Symbiosis Canteen center where Students can eat , refresh and energize w
 2. Vendor to Stduent Change points
 ```
 
-## Update - ADD name
 
-1.Kartik bhushan
-2.Gaurav Joshi
-3.Ayushi Agrawal
